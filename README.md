@@ -67,7 +67,7 @@ Welcome to the stock anomaly detection hackathon! Your challenge is to work thro
 - *company name*: The name of the company.
 - *adj close*: Adjusted closing price considering factors like dividends and splits.
 - *close*: The unadjusted closing price.
-- *high, **low, **open, **volume*: As described in the training dataset.
+- high, low, open, volume: As described in the training dataset.
 
 ## Evaluation Criteria
 - *Preprocessing Quality*: Handling of data inconsistencies, feature engineering.
