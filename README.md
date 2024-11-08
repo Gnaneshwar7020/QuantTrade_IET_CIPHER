@@ -36,7 +36,7 @@ Welcome to the stock anomaly detection hackathon! Your challenge is to work thro
 ## Brownie Task: Model Deployment
 - *Objective*: Deploy your anomaly detection model as an application that takes a CSV file as input and outputs dates with identified anomalies.
 - *Guidelines*:
-  - You can deploy the model locally or on a platform using tools such as *Streamlit, **Flask, or **FastAPI*.
+  - You can deploy the model locally or on a platform using tools such as Streamlit, Flask, or FastAPI.
   - Save your trained model and provide code for loading and using it in deployment.
   - Record a demo video showcasing the usage of your deployed model.
   - Provide a link to the demo video and include the saved model file for evaluation.
