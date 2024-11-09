@@ -5,6 +5,8 @@ Welcome to the stock anomaly detection hackathon! Your challenge is to work thro
 
 ## Task Overview
 
+Train dataset link https://drive.google.com/file/d/1ibckN1iTB0xu4Ty3HHJz8_4tOwZOydkS/view?usp=sharing
+
 ### Task 1: Preprocessing of Train Dataset
 - *Objective*: Clean and preprocess the provided training dataset.
 - *Details*:
@@ -29,7 +31,7 @@ Welcome to the stock anomaly detection hackathon! Your challenge is to work thro
 ### Task 4: Applying the Model to the Test Dataset
 - *Objective*: Apply your trained model to the test dataset and identify anomalies.
 - *Details*:
-  - The test dataset includes date, company name, adj close, close, high, low, open, and volume columns. Download dataset from here https://drive.google.com/file/d/1Xm8ejwEbVLOMAv_5sL9mXIWCXd_0zMcq/view?usp=sharing.
+  - The test dataset includes date, company name, adj close, close, high, low, open, and volume columns. Download dataset from here https://drive.google.com/file/d/1Kz3w5lIKBuF5kMIGlQDjw6Za74JDStlC/view?usp=sharing.
   - The meanings of these columns are consistent with financial datasets, representing daily trading data.
 - *Output*: A CSV file containing company name and date for each detected anomaly.
 
@@ -49,7 +51,9 @@ Welcome to the stock anomaly detection hackathon! Your challenge is to work thro
 2. *Upload your work as a Jupyter Notebook* with the filename format anomalyX.ipynb, where X is the number of tasks completed (e.g., anomaly3.ipynb if you completed up to Task 3).
 3. *Upload the Brownie Task* as a separate folder within the repository with all relevant deployment code.
 4. *Make your repository private* before the submission deadline.
-5. *Complete the submission by filling out the [Google Form](#)* with the link to your GitHub repository and details on who to add as collaborators for future assessment.
+5. Complete the submission by filling out the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSetysP0JJA--rD42K8MItzzz_2xtwTh_OBezfO_nlsnw4kjmw/viewform?usp=sf_link) with the following details:
+   - Link to your GitHub repository
+   - Details on who to add as collaborators for future assessment
 
 ## Dataset Information
 ### Training Dataset Columns:
